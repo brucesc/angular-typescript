@@ -53,6 +53,8 @@
     // "emitDecoratorMetadata": true,         /* Enables experimental support for emitting type metadata for decorators. */
   },
   "files": [
-    "ts/index.ts", "ts/calcarea.ts", "ts/aclass.ts", "ts/userclass.ts", "ts/friendslist.ts", "ts/vendor.class.ts", "ts/vendor-list.class.ts"
+    "ts/index.ts", "ts/calcarea.ts", "ts/aclass.ts", "ts/userclass.ts", "ts/friendslist.ts", "ts/vendor.class.ts",
+     "ts/vendor-list.class.ts", "ts/FooBar.class.ts", "ts/FooBar-Display.ts", "ts/bowling-frame.class.ts","ts/bowling-game.class.ts",
+     "ts/Account.class.ts", "ts/Banking.class.ts", "ts/SavingsAccount.class.ts"
   ]
 }

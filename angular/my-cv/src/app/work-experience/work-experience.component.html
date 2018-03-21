@@ -1,0 +1,9 @@
+
+  <h4 style="text-align:center">WORK EXPERIENCE</h4>
+<div *ngFor="let job of jobs">
+<h4>{{job.company}}<br />{{job.title}}</h4>
+<ul>
+  <li *ngFor="let desc of job.description">{{desc}}</li>
+</ul></div>
+
+
